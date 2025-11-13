@@ -1,4 +1,4 @@
-# machine-learning2
+# machine-learning
 This repository contains my Machine Learning projects and practice code. It serves as a workspace to explore ML algorithms, experiment with datasets, and build small to medium-scale projects. The goal is to apply theoretical knowledge practically, improve coding skills, and document learning.
 
 Contents
